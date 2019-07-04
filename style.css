@@ -1,0 +1,70 @@
+
+body {
+  background-color: FireBrick;
+  font-family: Helvetica, sans-serif;
+  color: Orange;
+}
+.title {
+  font-size: 50px;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  color: Orange;
+  padding-left: 5px;
+}
+header {
+  background-image: url(imgs/pinkdust.png);
+  color: FireBrick;
+  max-width: device-width;
+}
+.container {
+  /* background-image: url(imgs/instrumental.jpg); */
+  max-width: device-width;
+}
+footer {
+  background-image: url(imgs/pinkdust.png);
+  color: Orange;
+  text-align: right;
+}
+h5 {
+  text-size: 14px;
+}
+.instrumentals {
+  color: Orange;
+  font-weight: bold;
+}
+nav {
+  text-align: right;
+  margin-bottom: 0;
+  line-height: .2;
+  padding-bottom: 2px;
+  padding-right: 4px;
+}
+a {
+  color: Orange;
+  text-decoration: none;
+}
+a:hover {
+  color: FireBrick;
+}
+a:active {
+  color: Orange;
+}
+
+.aboutus {
+  color: FireBrick;
+}
+.instrumentals {
+  color: Orange;
+}
+.banner {
+  height: 420px;
+  max-width: device-width;
+  background-size: cover;
+  background-image: url(imgs/instrumental.jpg);
+}
+.video {
+  align: center;
+}
+p {
+  font-weight: bold;
+}
